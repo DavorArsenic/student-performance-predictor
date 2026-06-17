@@ -1,0 +1,12 @@
+azure_env/
+student_app/venv/
+
+.env
+*.env
+
+__pycache__/
+*.pyc
+
+.vscode/
+
+.ipynb_checkpoints/
